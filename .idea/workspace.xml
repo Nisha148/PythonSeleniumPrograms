@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0cf3055-ebc1-49fa-bc3a-d0fffa1b21a9" name="Changes" comment="hm">
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024/test_Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_1_15102024/test_Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_Lab003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Nisha148"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nisha148&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Nisha148/PythonSeleniumPrograms.git",
-    "accountId": "d315e2d4-e47d-4996-aa83-665c0bf7847d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nisha148/PythonSeleniumPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;d315e2d4-e47d-4996-aa83-665c0bf7847d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -49,78 +56,102 @@
   "keyToString": {
     "Python tests.Python tests for test_Lab001.test_sample.executor": "Run",
     "Python tests.Python tests for test_Lab002.test_open_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_Lab003.test_verify_katalon_url_title.executor": "Run",
+    "Python tests.Python tests for test_Lab004.test_open_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_Lab005.test_chrome_options.executor": "Run",
+    "Python tests.Python tests for test_Lab006.test_edge.executor": "Run",
+    "Python tests.Python tests for test_Lab006.test_fire.executor": "Run",
+    "Python tests.Python tests for test_Lab006.test_verify_katalon_url_title.executor": "Run",
+    "Python tests.Python tests for test_Lab007.test_verify_katalon_url_title.executor": "Run",
+    "Python tests.Python tests for test_Lab008.test_verify_katalon_url_title.executor": "Run",
     "Python tests.Python tests for test_katalon.TestKataloncura.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab003.test_verify_katalon_url_title">
-    <configuration name="Python tests for test_Lab001.test_sample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab008.test_verify_katalon_url_title">
+    <configuration name="Python tests for test_Lab006.test_edge" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_2_17102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab001.test_sample&quot;" />
+      <option name="_new_target" value="&quot;test_Lab006.test_edge&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab002.test_open_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab006.test_fire" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_2_17102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab002.test_open_vwo_login&quot;" />
+      <option name="_new_target" value="&quot;test_Lab006.test_fire&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab003.test_verify_katalon_url_title" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab006.test_verify_katalon_url_title" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_2_17102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab003.test_verify_katalon_url_title&quot;" />
+      <option name="_new_target" value="&quot;test_Lab006.test_verify_katalon_url_title&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_katalon.TestKataloncura" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab007.test_verify_katalon_url_title" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_1_15102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_2_17102024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_katalon.TestKataloncura&quot;" />
+      <option name="_new_target" value="&quot;test_Lab007.test_verify_katalon_url_title&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab008.test_verify_katalon_url_title" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_2_17102024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab008.test_verify_katalon_url_title&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab003.test_verify_katalon_url_title" />
-        <item itemvalue="Python tests.Python tests for test_katalon.TestKataloncura" />
-        <item itemvalue="Python tests.Python tests for test_Lab002.test_open_vwo_login" />
-        <item itemvalue="Python tests.Python tests for test_Lab001.test_sample" />
+        <item itemvalue="Python tests.Python tests for test_Lab008.test_verify_katalon_url_title" />
+        <item itemvalue="Python tests.Python tests for test_Lab007.test_verify_katalon_url_title" />
+        <item itemvalue="Python tests.Python tests for test_Lab006.test_fire" />
+        <item itemvalue="Python tests.Python tests for test_Lab006.test_edge" />
+        <item itemvalue="Python tests.Python tests for test_Lab006.test_verify_katalon_url_title" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735307187815</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hm">
+      <option name="closed" value="true" />
+      <created>1735307650009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735307650009</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
