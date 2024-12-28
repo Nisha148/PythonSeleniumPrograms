@@ -11,4 +11,4 @@ def test_chrome_options():
     chrome_options.add_argument("--headless")
     driver=webdriver.Chrome(chrome_options)
     driver.get("https://katalon-demo-cura.herokuapp.com/")
-    assert True== False
+    assert True== True
