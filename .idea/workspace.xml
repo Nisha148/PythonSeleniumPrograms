@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0cf3055-ebc1-49fa-bc3a-d0fffa1b21a9" name="Changes" comment="hm">
-      <change afterPath="$PROJECT_DIR$/src/ex_06_26102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_26102024/test_Lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_26102024/test_Lab030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_26102024_action_class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_26102024_action_class/test_Lab031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_26102024_action_class/test_Lab032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_26102024_action_class/test_Lab033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_26102024_action_class/test_Lab034_make_my_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_26102024_action_class/test_Lab035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_26102024_action_class/test_Lab036.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_26102024_action_class/test_Lab037.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_22102024 CSS selector/test_Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_4_22102024_CSS_selector/test_Lab015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_22102024 CSS selector/test_Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_4_22102024_CSS_selector/test_Lab016.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_22102024 CSS selector/test_Lab017_ExplicitWait.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_4_22102024_CSS_selector/test_Lab017_ExplicitWait.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_4_22102024 CSS selector/test_Lab018_FluentWait.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_4_22102024_CSS_selector/test_Lab018_FluentWait.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +85,15 @@
     "Python tests.Python tests for test_Lab028.test_verify.executor": "Run",
     "Python tests.Python tests for test_Lab029.test_webtable.executor": "Run",
     "Python tests.Python tests for test_Lab030.test_webtable.executor": "Run",
+    "Python tests.Python tests for test_Lab031.test_keyboard_actions.executor": "Run",
+    "Python tests.Python tests for test_Lab032.test_keyboard_actions.executor": "Run",
+    "Python tests.Python tests for test_Lab033.test_keyboard_actions.executor": "Run",
+    "Python tests.Python tests for test_Lab034_make_my_trip.test_keyboard_actions.executor": "Run",
+    "Python tests.Python tests for test_Lab034_make_my_trip.test_search_tab.executor": "Run",
+    "Python tests.Python tests for test_Lab035.test_search_tab.executor": "Run",
+    "Python tests.Python tests for test_Lab035.test_windows.executor": "Run",
+    "Python tests.Python tests for test_Lab036.test_windows.executor": "Run",
+    "Python tests.Python tests for test_Lab037.test_spice_jet.executor": "Run",
     "Python tests.Python tests for test_katalon.TestKataloncura.executor": "Run",
     "Python tests.Python tests for text_Lab011.test_anchor_tag.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -91,89 +101,89 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab030.test_webtable">
-    <configuration name="Python tests for test_Lab019.test_normal_js_alert" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab037.test_spice_jet">
+    <configuration name="Python tests for test_Lab034_make_my_trip.test_search_tab" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_24102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_26102024_action_class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab019.test_normal_js_alert&quot;" />
+      <option name="_new_target" value="&quot;test_Lab034_make_my_trip.test_search_tab&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab027.test_verify" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab035.test_search_tab" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_24102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_26102024_action_class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab027.test_verify&quot;" />
+      <option name="_new_target" value="&quot;test_Lab035.test_search_tab&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab028.test_verify" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab035.test_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_24102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_26102024_action_class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab028.test_verify&quot;" />
+      <option name="_new_target" value="&quot;test_Lab035.test_windows&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab029.test_webtable" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab036.test_windows" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_06_26102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_26102024_action_class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab029.test_webtable&quot;" />
+      <option name="_new_target" value="&quot;test_Lab036.test_windows&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab030.test_webtable" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab037.test_spice_jet" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_06_26102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_07_26102024_action_class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab030.test_webtable&quot;" />
+      <option name="_new_target" value="&quot;test_Lab037.test_spice_jet&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab030.test_webtable" />
-        <item itemvalue="Python tests.Python tests for test_Lab029.test_webtable" />
-        <item itemvalue="Python tests.Python tests for test_Lab019.test_normal_js_alert" />
-        <item itemvalue="Python tests.Python tests for test_Lab028.test_verify" />
-        <item itemvalue="Python tests.Python tests for test_Lab027.test_verify" />
+        <item itemvalue="Python tests.Python tests for test_Lab037.test_spice_jet" />
+        <item itemvalue="Python tests.Python tests for test_Lab036.test_windows" />
+        <item itemvalue="Python tests.Python tests for test_Lab035.test_windows" />
+        <item itemvalue="Python tests.Python tests for test_Lab035.test_search_tab" />
+        <item itemvalue="Python tests.Python tests for test_Lab034_make_my_trip.test_search_tab" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736978949689</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="hm">
+      <option name="closed" value="true" />
+      <created>1737157617532</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737157617532</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
